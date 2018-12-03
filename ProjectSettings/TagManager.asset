@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Straight Track
+  - Curved Track
+  - Grid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3875271265
+    locked: 1
+  - name: Track
+    uniqueID: 870853423
+    locked: 0
+  - name: Track additions
+    uniqueID: 3840450375
+    locked: 0
+  - name: Trolly
+    uniqueID: 3789350801
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Covers
+    uniqueID: 1612029891
+    locked: 0
